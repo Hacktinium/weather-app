@@ -31,7 +31,7 @@ We hope you enjoy using our weather app!
 
 ## Authors
 
-- [@AshrafAKRahman](https://www.github.com/octokatherine)
-- [@Hacktiniumn](https://www.github.com/https://github.com/Hacktinium)
+- [@AshrafAKRahman](https://www.github.com/AshrafAKRahman)
+- [@Hacktinium](https://github.com/Hacktinium)
 - [@PeterM-13](https://github.com/PeterM-13)
 
